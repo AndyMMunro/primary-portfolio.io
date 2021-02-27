@@ -1,0 +1,17 @@
+.projects{
+  float: right;
+  width: 60%;
+  margin-top: 150px;
+  z-index: 1;
+ 
+}
+
+.about{
+  float: left;
+  width: 60%;
+}
+
+.contact{
+  float: right;
+  width: 60%;
+}
